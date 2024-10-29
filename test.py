@@ -1,0 +1,13 @@
+print("Hello, world!".upper())
+
+print("  |  |  ")
+print("  |  |  ")
+print("  |  |  ")
+print("--------")
+print("  |  |  ")
+print("  |  |  ")
+print("  |  |  ")
+print("--------")
+print("  |  |  ")
+print("  |  |  ")
+print("  |  |  ")
