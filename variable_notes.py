@@ -86,8 +86,9 @@
 
 #bank example 
 
-Balance =int(input("100"))
-amount_to_withdraw =int(input("20"))
-print(Balance)
-Balance= balance - amount_to_withdraw
-print(Balance)
+# balance = 100
+# amount_to_withdraw = 20
+# print(balance)
+# balance = balance - amount_to_withdraw
+# print(balance)
+
